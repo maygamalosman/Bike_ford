@@ -1,7 +1,7 @@
 Bike Trip Analysis Project
 
 by May Osman
-
+![Bike Trip Analysis]([relative/path/to/your/image.png](https://github.com/maygamalosman/Bike_ford/blob/main/Bike_Trip_Analysis_Compressed.webp))
 
 Dataset Overview
 
